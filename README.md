@@ -23,14 +23,14 @@ Testar a hipótese de que **quanto mais pesado o jogo, mais memória ele aloca**
 .
 ├── README.md
 ├── scripts/
-│   └── medir.py              # script de medição
-│   └── medir_mac.py          # script de medição para macOS
+│   └── medir.py                      # script de medição
+│   └── medir_mac.py                  # script de medição para macOS
 ├── dados/
-│   ├── brutos/               # CSVs originais, exatamente como o script gerou
-│   └── excel/                # versões com ";" para abrir direto no Excel (pt-BR)
+│   ├── brutos/                       # CSVs originais, exatamente como o script gerou
+│   └── excel/                        # versões com ";" para abrir direto no Excel (pt-BR)
 └── docs/
-    └── passo_a_passo.md      # guia de execução (opcional)
-    └── passo_a_passo_para_mac.md      # guia de execução (opcional)
+    └── passo_a_passo.pdf             # guia de execução (opcional)
+    └── passo_a_passo_para_mac.pdf    # guia de execução (opcional)
 
 ```
 
