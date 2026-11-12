@@ -104,7 +104,7 @@ Exemplos: `cs2_pc1_teste1.csv`, `brawlhalla_pcV_teste2.csv`.
 | PC | Processador | RAM (quantidade e velocidade) | Placa de vídeo / VRAM | Sistema operacional | Armazenamento (SSD/HDD) |
 |---|---|---|---|---|---|
 | PCJ | 12th Gen Intel(R) Core(TM) i5-1245HX, 2400Mhz, 8 Núcleos, 12 Processadores | 16,0GB e 4800MT/s | NVIDIA GeForce RTX 3050 6GB | Microsoft Windows 11 | SSD |
-| PCV | | | | | |
+| PCR | | | | | |
 
 ## Resultados preliminares
 
