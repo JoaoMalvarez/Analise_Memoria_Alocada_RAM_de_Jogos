@@ -81,7 +81,7 @@ Para abrir no Excel em português, use a versão da pasta `dados/excel/` (separa
 jogo_pcX_testeN.csv
 ```
 
-Exemplos: `cs2_pc1_teste1.csv`, `brawlhalla_pcV_teste2.csv`.
+Exemplos: `cs2_pcJ_teste1.csv`, `brawlhalla_pcR_teste2.csv`.
 
 ## Metodologia
 
@@ -112,11 +112,11 @@ Valores em MB, de testes individuais (ainda sem média das repetições).
 
 | Jogo | PC | Virtual (média) | Virtual (máx. medido) | Pico alocado (SO) | Residente (média) | Residente (máx. medido) | Pico residente (SO) |
 |---|---|---|---|---|---|---|---|
-| Brawlhalla | PC1 | 2.453 | 2.487 | 2.487 | 2.383 | 2.413 | 2.413 |
-| Brawlhalla | PCV | 2.544 | 2.651 | 2.656 | 2.429 | 2.544 | 2.544 |
-| Deadlock | PC1 | 8.587 | 9.541 | 10.247 | 4.090 | 4.743 | 5.149 |
-| CS2 | PC1 | 8.478 | 8.926 | 9.814 | 4.354 | 4.671 | 4.681 |
-| CS2 | PCV | 9.250 | 9.776 | 9.783 | 6.507 | 7.106 | 7.108 |
+| Brawlhalla | PCJ | 2.453 | 2.487 | 2.487 | 2.383 | 2.413 | 2.413 |
+| Brawlhalla | PCR | 2.544 | 2.651 | 2.656 | 2.429 | 2.544 | 2.544 |
+| Deadlock | PCJ | 8.587 | 9.541 | 10.247 | 4.090 | 4.743 | 5.149 |
+| CS2 | PCJ | 8.478 | 8.926 | 9.814 | 4.354 | 4.671 | 4.681 |
+| CS2 | PCR | 9.250 | 9.776 | 9.783 | 6.507 | 7.106 | 7.108 |
 
 ## Explicação técnica
 
