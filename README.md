@@ -97,14 +97,13 @@ Exemplos: `cs2_pc1_teste1.csv`, `brawlhalla_pcV_teste2.csv`.
 |---|---|
 | Brawlhalla | Leve |
 | Deadlock | Médio |
-| CS2 | *a definir* |
-| *(jogo pesado)* | Pesado |
+| CS2 | Pesado |
 
 ## Computadores testados
 
 | PC | Processador | RAM (quantidade e velocidade) | Placa de vídeo / VRAM | Sistema operacional | Armazenamento (SSD/HDD) |
 |---|---|---|---|---|---|
-| PC1 | | | | | |
+| PCJ | 12th Gen Intel(R) Core(TM) i5-1245HX, 2400Mhz, 8 Núcleos, 12 Processadores | 16,0GB e 4800MT/s | NVIDIA GeForce RTX 3050 6GB | Microsoft Windows 11 | SSD |
 | PCV | | | | | |
 
 ## Resultados preliminares
