@@ -116,10 +116,10 @@ Valores em MB, de testes individuais (ainda sem média das repetições).
 | Jogo | PC | Virtual (média) | Virtual (máx. medido) | Pico alocado (SO) | Residente (média) | Residente (máx. medido) | Pico residente (SO) |
 |---|---|---|---|---|---|---|---|
 | Brawlhalla | PCJ | 2.453 | 2.487 | 2.487 | 2.383 | 2.413 | 2.413 |
-| Brawlhalla | PCR | 2.544 | 2.651 | 2.656 | 2.429 | 2.544 | 2.544 |
-| Deadlock | PCJ | 8.587 | 9.541 | 10.247 | 4.090 | 4.743 | 5.149 |
+| Brawlhalla | PCR | 2.499 | 2.606 | 2.619 | 2.388 | 2.493 | 2.497 |
+| Deadlock | PCJ | 9.753 | 10.485 | 11.007 | 4.595 | 5.418 | 6.191 |
 | CS2 | PCJ | 8.478 | 8.926 | 9.814 | 4.354 | 4.671 | 4.681 |
-| CS2 | PCR | 9.250 | 9.776 | 9.783 | 6.507 | 7.106 | 7.108 |
+| CS2 | PCR | 8.811 | 9.400 | 9.736 | 6.150 | 6.594 | 6.605 |
 
 ## Explicação técnica
 
