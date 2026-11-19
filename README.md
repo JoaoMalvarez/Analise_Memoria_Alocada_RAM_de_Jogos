@@ -107,7 +107,7 @@ Exemplos: `cs2_pcJ_teste1.csv`, `brawlhalla_pcR_teste2.csv`.
 | PC | Processador | RAM (quantidade e velocidade) | Placa de vídeo / VRAM | Sistema operacional | Armazenamento (SSD/HDD) |
 |---|---|---|---|---|---|
 | PCJ | 12th Gen Intel(R) Core(TM) i5-1245HX, 2400Mhz, 8 Núcleos, 12 Processadores | 16,0GB e 4800MT/s | NVIDIA GeForce RTX 3050 6GB | Microsoft Windows 11 | SSD |
-| PCR | | | | | |
+| PCR | Intel Core i7-13620H, 4,9 GHz, 10 Núcleos, 16 Processadores | 8,0GB e 5200MT/s | NVIDIA GeForce RTX 4050 6GB | Microsoft Windows 11 | SSD |
 
 ## Resultados preliminares
 
