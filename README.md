@@ -137,8 +137,8 @@ O efeito vale até o **limite de commit** do sistema (RAM + arquivo de paginaç�
 
 ## Autores
 
-*(nomes dos integrantes do grupo)*
+*João Pedro Mazzante Alvarez*
 
-## Licença
+## Apresentação
 
-*(escolher uma licença, por exemplo MIT para o código e CC BY 4.0 para os dados)*
+**https://canva.link/pgrpzdykydkntmb**
