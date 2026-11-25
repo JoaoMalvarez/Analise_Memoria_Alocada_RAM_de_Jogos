@@ -23,6 +23,7 @@ Testar a hipótese de que **quanto mais pesado o jogo, mais memória ele aloca**
 .
 ├── README.md
 ├── RESULTADOS.md
+├── relatorio_memoria_jogos.pdf
 ├── scripts/
 │   └── medir.py                      # script de medição
 │   └── medir_mac.py                  # script de medição para macOS
