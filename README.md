@@ -139,8 +139,11 @@ O efeito vale até o **limite de commit** do sistema (RAM + arquivo de paginaç�
 ## Autores
 
 *João Pedro Mazzante Alvarez* 
+
 *Helen Santana de Araújo Teixeira* 
+
 *Vinicius Bisordi Acauã*
+
 *Renan Blommenstein*
 
 ## Apresentação
